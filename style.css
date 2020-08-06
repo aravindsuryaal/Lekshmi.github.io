@@ -1,0 +1,109 @@
+body {
+	margin: 0px;
+	background-image: url(Pictures/poster1.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	overflow: hidden;
+}
+
+a {
+	text-decoration: none;
+}
+
+.logo img {
+	width: 100px;
+	padding-left: 60px;
+	padding-top: 23px;
+	float: left;
+	
+}
+
+
+.nav ul {
+	list-style-type: none;
+	text-align: center;
+	word-spacing: 40px;
+	padding-top: 27px;
+
+}
+
+.nav li {
+	display: inline-block;
+	font-family: Poppins;
+	font-weight: 300;
+	text-decoration:  none;
+}
+
+.nav1 {
+	color: #00c2ff;
+}
+
+.nav2 {
+	color: #000;
+}
+
+.nav2:hover {
+	color: #00c2ff;
+	transition-duration: 0.3s;
+}
+
+.head1 {
+	font-family: Poppins;
+	font-weight: 400;
+	padding-left: 70px;
+	padding-top: 150px;
+	font-size: 80px;
+	line-height: 75px;
+	float: left;
+
+}
+
+.head2 {
+	font-family: Poppins;
+	font-weight: 4000;
+	padding-left: 70px;
+	font-size: 80px;
+	padding-top: 0px;
+	
+	float: left;
+
+}
+
+.head3 {
+	font-family: Poppins;
+	font-weight: 400;
+	padding-left: 75px;	
+	font-size: 25px;
+	float: left;
+}
+
+.head3-c {
+	color: #00c2ff;
+
+}
+
+.taste {
+	padding: 4px 30px;
+	font-family: Poppins;
+	font-weight: 400;
+	background-color: #00c2ff;
+	color: #fff;
+	border-radius: 50px;
+	border: #00c2ff;
+	font-size: 17px;
+	float: left;
+}
+
+.home-btn {
+	padding-left: 75px;
+	padding-top: 35px;
+	float: left;
+	padding-top: 50px;
+
+
+}
+
+.poster img {
+	width: 560px;
+	float: right;
+}
